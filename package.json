@@ -26,5 +26,6 @@
   "homepage": "https://github.com/TGVaporeon/Discord-Sidescroller#readme",
   "dependencies": {
     "eris": "github:abalabahaha/eris"
-  }
+  },
+  "private": true
 }

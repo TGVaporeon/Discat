@@ -10,4 +10,6 @@ const client = new Eris.CommandClient(config.token, {} , {
 
 client.registerCommand("play", "here's the link to it!\nhttps://acdenissk.github.io/discordsidescroller/index.html");
 
+client.registerCommand("server", "here's the link to my server!\nhttps://discord.gg/sfBskxg");
+
 client.connect();
