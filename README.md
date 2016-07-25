@@ -14,7 +14,7 @@ Once `git` done it's job you're almost ready to go!
 Only remaining things to do is
 
 1. Go to [developers](https://discordapp.com/developers/applications/me), create a account, Click "Create Bot User", Click "Reveal Token" , copy everything after `Token:` and save it somewhere temporarly (NOTE: Do not share this others at all cost!)
-2. Open `config.json`
+2. Open `config.json` your text editor (notepad, notepad++)
 3. Change `token` (the `""` part) with the temporaly saved one
 4. `npm install --no-optional && node index.js`
 
