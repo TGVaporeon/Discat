@@ -1,0 +1,30 @@
+{
+  "name": "discordsidescroller",
+  "version": "0.0.1",
+  "description": "a 2D sidescroller for discord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGVaporeon/Discord-Sidescroller.git"
+  },
+  "keywords": [
+    "DISCORD",
+    "2D",
+    "GAME"
+  ],
+  "author": "TGVaporeon <jirachi7593@msn.com>",
+  "contributors": [
+    "acdenisSK <acdenisSK@outlook.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TGVaporeon/Discord-Sidescroller/issues"
+  },
+  "homepage": "https://github.com/TGVaporeon/Discord-Sidescroller#readme",
+  "dependencies": {
+    "eris": "github:abalabahaha/eris"
+  }
+}
