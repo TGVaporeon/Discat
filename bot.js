@@ -8,6 +8,8 @@ const client = new Eris.CommandClient(config.token, {} , {
     description: "just a bot to share the link to the real discord sidescroller, might have something more in the future though"
 });
 
+client.once("ready", () => console.log("Running!"));
+
 client.registerCommand("play", "here's the link to it!\nhttps://acdenissk.github.io/discordsidescroller/index.html");
 
 client.registerCommand("server", "here's the link to my server!\nhttps://discord.gg/sfBskxg");
